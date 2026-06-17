@@ -35,5 +35,5 @@ Para ejecutar las pruebas automatizadas, selecciona la opción `2` e ingresa `te
 
 ## Estructura del Repositorio
 - `src/main.c`: Código fuente del simulador de autómata de pila.
-- `test_cases.txt`: Archivo con más de 20 casos de prueba (aceptados y rechazados).
+- `pruebas_casos.txt`: Archivo con más de 20 casos de prueba (aceptados y rechazados).
 - `reporte.md`: Reporte del proyecto detallando lenguaje, gramática, transiciones y más.
