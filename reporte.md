@@ -112,4 +112,4 @@ stateDiagram-v2
 
 - **Joahan Josue Cruz Mancilla**
 - **Paloma Tsitsiki Arellano Alejo**
-- **Brando Eretza Visoso**
+- **Brandon Eretza Visoso**
