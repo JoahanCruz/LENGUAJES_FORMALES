@@ -107,3 +107,9 @@ stateDiagram-v2
 | 8 | `<a><b><c></c></a></b>` | Se cruzaron etiquetas; `<b>` no cerró antes que `<a>`. |
 | 9 | `<a><b></c></b></a>` | Se intenta cerrar `<c>` pero la cima es `B`. |
 | 10| `<a></a><b>` | Falta el cierre del segundo elemento secuencial. |
+
+## Autores
+
+- **Joahan Josue Cruz Mancilla**
+- **Paloma Tsitsiki Arellano Alejo**
+- **Brando Eretza Visoso**
