@@ -1,0 +1,27 @@
+# --- CADENAS ACEPTADAS ---
+<a></a>
+<b></b>
+<c></c>
+<a><b></b></a>
+<a><b><c></c></b></a>
+<a></a><b></b>
+<a></a><b></b><c></c>
+<c><a></a><b></b></c>
+<a><b></b><c></c></a>
+<a><b><c></c></b><c></c></a>
+<a><a></a></a>
+<a><b><a></a></b></a>
+
+# --- CADENAS RECHAZADAS ---
+<a>
+</a>
+<a></b>
+<a><b></a></b>
+</a><a>
+<a><b></b>
+<a></a></b>
+<a><b><c></c></a></b>
+<a><b></c></b></a>
+<a></a><b>
+<d></d>
+<a><a></a>
