@@ -1,4 +1,4 @@
-# Proyecto: Autómata de Pila — Validación de Etiquetas HTML/XML
+# Proyecto: Autómata de Pila — Validación de Etiquetas HTML/XML (Repositorio LENGUAJES_FORMALES)
 
 Este proyecto implementa un Autómata de Pila (PDA) en C para validar que las etiquetas de tipo HTML/XML (`<a>`, `<b>`, `<c>`) estén correctamente balanceadas y anidadas.
 
